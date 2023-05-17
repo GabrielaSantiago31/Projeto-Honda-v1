@@ -1,6 +1,6 @@
 # projeto_loja_de_motos_v1
 Sistema desenvolvido para realizar o cadastro de funcionários e produtos. 
-O sistema ainda efetua a venda dos produtos, gerando o registro da venda, no qual constam as informações dos produtos que foram vendidos, qual funcionário efetuou a venda, o preço com desconto ou não e também a data.
+O sistema ainda efetua a venda dos produtos, gerando o registro da venda, no qual constam as informações das motos que foram vendidas, qual funcionário efetuou a venda, o preço com desconto ou não e também a data.
 
 <p>
 <img src="https://img.shields.io/badge/STATUS-COMPLETO-green"/>
@@ -8,11 +8,11 @@ O sistema ainda efetua a venda dos produtos, gerando o registro da venda, no qua
 
 ### :arrow_forward: Abrir e rodar o projeto
 ---
-Após baixar o projeto, você pode abri com o Eclipse IDE 2022-12. Para isso, na tela de launcher, clique em:
+Após baixar o projeto, você pode abri-lo com o Eclipse IDE 2022-12. Para isso, na tela de launcher:
 - Clique com o botão esquerdo do mouse em File -> Import -> Existing Pojects into Workspace -> Clique no botão Browse... 
 -> Selecione o projeto -> Selecione a opção finish.
 - Para rodar as telas, será necessário o plug-in WindowBuilder para Eclipse, o qual pode ser instalado através da própria IDE: 
-Vá até a opção Help -> Selecione Eclipse Marketplace -> Digite Window Builder no Campo de busca e selecione a opção Window Builder Current.
+Vá até a opção Help -> Selecione Eclipse Marketplace -> Digite Window Builder no Campo de busca e selecione a opção Window Builder.
 
 ### :hammer_and_pick: Funcionalidade do Projeto 
 ---
