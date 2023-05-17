@@ -1,6 +1,6 @@
 # projeto_loja_de_motos_v1
 Sistema desenvolvido para realizar o cadastro de funcionários e produtos. 
-O sistema ainda efetua a venda dos produtos, gerando o registro da venda, no qual constam as informações das motos que foram vendidas, qual funcionário efetuou a venda, o preço com desconto ou não e também a data.
+O sistema ainda efetua a venda dos produtos, gerando um registro, no qual constam as informações das motos que foram vendidas, qual funcionário efetuou a venda, o preço com desconto ou não e também a data.
 
 <p>
 <img src="https://img.shields.io/badge/STATUS-COMPLETO-green"/>
