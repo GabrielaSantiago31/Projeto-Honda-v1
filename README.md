@@ -1,4 +1,4 @@
-# projeto_loja_de_motos_v1
+# projeto Honda v1
 Sistema desenvolvido para realizar o cadastro de funcionários e produtos. 
 O sistema ainda efetua a venda dos produtos, gerando um registro, no qual constam as informações das motos que foram vendidas, qual funcionário efetuou a venda, o preço com desconto ou não e também a data.
 
